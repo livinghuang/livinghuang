@@ -1,5 +1,5 @@
 - Hi, I’m @livinghuang
-- I’m interested in many things, especially money 
+- Curiosity killed the cat, satisfaction brought him back 
 - you could reach via living.huang@gmail.com
 
 <!---
