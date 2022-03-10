@@ -1,7 +1,5 @@
 - Hi, I’m @livinghuang
 - I’m interested in many things, especially money 
-- I’m currently learning golang
-- I’m looking a good jod.
 - you could reach via living.huang@gmail.com
 
 <!---
